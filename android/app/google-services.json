@@ -1,0 +1,82 @@
+{
+  "project_info": {
+    "project_number": "555873172386",
+    "project_id": "fcmtest-4f962",
+    "storage_bucket": "fcmtest-4f962.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:555873172386:android:b5144554dc81a28dd410fb",
+        "android_client_info": {
+          "package_name": "com.example.tes_victoria_care"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "555873172386-h7coo18sgf5phcb7l893lhni1qpmates.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBaXImmYwf4_NC7-zMSRxoqu5_B-CGORe0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "555873172386-h7coo18sgf5phcb7l893lhni1qpmates.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "555873172386-0qdkjojbugcpl6ncst7a26pv7vh8urha.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.tesVictoriaCare"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:555873172386:android:77a9abcb50f26ec0d410fb",
+        "android_client_info": {
+          "package_name": "com.example.tes_victoria_care_test"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "555873172386-h7coo18sgf5phcb7l893lhni1qpmates.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBaXImmYwf4_NC7-zMSRxoqu5_B-CGORe0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "555873172386-h7coo18sgf5phcb7l893lhni1qpmates.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "555873172386-0qdkjojbugcpl6ncst7a26pv7vh8urha.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.tesVictoriaCare"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
